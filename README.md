@@ -27,7 +27,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/OmarSharieff](https://github.com/OmarSharieff)
 - 💬 Ask me about **JavaScript, Python, API handling**
 - 📫 How to reach me **omarsharief642002@gmail.com**
-- ⚡ Fun fact **I code and watch Anime (Currently watching One Piece/Naruto!) 😁**
+- ⚡ Fun fact **I code and watch Anime (Currently watching One Piece!) 😁**
 
 <hr/>
 
