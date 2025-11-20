@@ -25,9 +25,9 @@
 - 🌱 I’m currently learning **React.JS, PostgreSQL, Typescript**
 - 👯 I’m looking to collaborate on **Front-end projects**
 - 👨‍💻 All of my projects are available at [https://github.com/OmarSharieff](https://github.com/OmarSharieff)
-- 💬 Ask me about **JavaScript, Web development, API handling**
+- 💬 Ask me about **JavaScript, Python, API handling**
 - 📫 How to reach me **omarsharief642002@gmail.com**
-- ⚡ Fun fact **I code and watch Anime (Currently watching One Piece!) 😁**
+- ⚡ Fun fact **I code and watch Anime (Currently watching One Piece/Naruto!) 😁**
 
 <hr/>
 
@@ -36,11 +36,11 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=js" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=react" alt="icon" width="65" height="65" />
       <br>React
     </td>
     <td align="center" width="90">
@@ -52,15 +52,15 @@
       <br>Express
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=python" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=java" alt="icon" width="65" height="65" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="icon" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="90">
@@ -86,7 +86,7 @@
       <br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mongo-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="icon" width="65" height="65" />
       <br>MongoDB
     </td>
     <td align="center" width="90">
@@ -94,7 +94,7 @@
       <br>Postgres
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/git-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=git" alt="icon" width="65" height="65" />
       <br>Git
     </td>
     <td align="center" width="90">
@@ -114,7 +114,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omarsharieff&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=omarsharieff&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 <br/>
