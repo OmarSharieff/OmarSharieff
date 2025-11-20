@@ -25,9 +25,9 @@
 - 🌱 I’m currently learning **React.JS, PostgreSQL, Typescript**
 - 👯 I’m looking to collaborate on **Front-end projects**
 - 👨‍💻 All of my projects are available at [https://github.com/OmarSharieff](https://github.com/OmarSharieff)
-- 💬 Ask me about **JavaScript, Python, API handling**
+- 💬 Ask me about **JavaScript, Web development, API handling**
 - 📫 How to reach me **omarsharief642002@gmail.com**
-- ⚡ Fun fact **I code and watch Anime (Currently watching One Piece/Naruto!) 😁**
+- ⚡ Fun fact **I code and watch Anime (Currently watching One Piece!) 😁**
 
 <hr/>
 
